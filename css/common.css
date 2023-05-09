@@ -5,3 +5,5 @@ div.box{width: 200px; height: 200px;}
 .box.yellow{background-color: yellow;}
 .box.green{background-color: green;}
 .box.pink{background-color: pink;}
+
+.box.border{border: 5px solid #000;}
