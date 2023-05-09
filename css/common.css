@@ -7,3 +7,4 @@ div.box{width: 200px; height: 200px;}
 .box.pink{background-color: pink;}
 
 .box.border{border: 5px solid #000;}
+.box.radius{border-radius: 8px;}
